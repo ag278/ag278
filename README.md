@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hi there! I'm Atul Goyal.<br> Nice to meet you!</h2>
 
-- A **Frontend web developer** currently persuing Computer Science and Engineering at IIT Bhubaneswar  
+- A **Backend web developer** currently persuing Computer Science and Engineering at IIT Bhubaneswar  
 - Enjoys compititive programming
 - You can Reach out to me by mailing at: [goyalatul278@gmail.com](mailto:goyalatul278@gmail.com)
 ---
