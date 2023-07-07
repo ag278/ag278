@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi there! I'm Atul Goyal.<br> Nice to meet you!</h2>
 
-- A **Backend web developer** currently persuing Computer Science and Engineering at IIT Bhubaneswar  
-- Enjoys compititive programming
+- I'm a **backend developer** with a Bachelor of Technology in Computer Science and Engineering from IIT Bhubaneswar.
+- Enjoys solving DSA
 - You can Reach out to me by mailing at: [goyalatul278@gmail.com](mailto:goyalatul278@gmail.com)
 ---
 <h3 align="Center">Stuff I code with:</h3>
